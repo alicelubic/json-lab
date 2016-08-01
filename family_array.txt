@@ -1,0 +1,30 @@
+[
+{"mother":{
+	"age":"57",
+	"name":"Ann",
+	"quality":"can generate unique business ideas indefinitely",
+	"appearance":{"eyes":"brown","hair":"short"}
+	}
+},
+{"father":{
+	"age":"57",
+	"name":"Doug",
+	"quality":"a nice singing voice",
+	"appearance":{"eyes":"brown","hair":"short"}
+	}
+},
+{"son":{
+	"age":"26",
+	"name":"Charles",
+	"quality":"eidetic memory",
+	"appearance":{"eyes":"brown","hair":"long"}
+	}
+},
+{"daughter":{
+"age":"23",
+	"name":"Alice",
+	"quality":"nice, funny, pretty",
+	"appearance":{"eyes":"brown","hair":"short"}
+	}
+}
+]
